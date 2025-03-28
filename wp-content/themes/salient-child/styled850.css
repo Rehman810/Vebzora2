@@ -1,0 +1,363 @@
+/*
+Theme Name: Salient Child Theme
+Description: This is a custom child theme for Salient
+Theme URI:   https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266
+Author: ThemeNectar
+Author URI:  https://themeforest.net/user/themenectar
+Template: salient
+Version: 1.0
+*/
+
+#header-outer ul.sf-menu.sf-js-enabled.sf-arrows {
+    display: flex;
+    align-items: baseline;
+    padding-top: 28px;
+    position: relative;
+}
+
+#header-outer ul.sf-menu.sf-js-enabled.sf-arrows li a span {
+    font-family: "av";
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 500;
+    color: #929497b2;
+    text-transform: uppercase;
+}
+
+#header-outer ul.sf-menu.sf-js-enabled.sf-arrows li a,
+#header-outer ul.sf-menu.sf-js-enabled.sf-arrows li a span {
+    transition: 0.5s !important;
+    position: relative;
+}
+
+#header-outer ul.sf-menu.sf-js-enabled.sf-arrows.vc_col-sm-3:hover span,
+#header-outer ul.sf-menu.sf-js-enabled.sf-arrows li.current-menu-item a span {
+    color: #000;
+}
+
+
+/* -----------------------       ----------       ----------       ----------       ----------       ----------        */
+
+#header-outer {
+    background-color: transparent !important;
+}
+
+#ro-upp {
+    margin-top: -50px;
+    z-index: 99999;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+#ro-upp .txt0 h4 {
+    font-family: 'av';
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 31px;
+    color: #393336;
+    font-style: italic;
+    text-align: end;
+    letter-spacing: 3px;
+}
+
+#ro-1 .txt1 {
+    position: relative;
+}
+
+#ro-1 .txt1 h6 {
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+#ro-1 .txt1 h6 img {
+    opacity: 100%;
+    transition: 0.5s;
+    margin: 0px;
+    padding: 0px;
+}
+
+#ro-1 .txt1 h3 {
+    font-family: 'av';
+    font-weight: 500;
+    color: #000;
+    font-size: 15px;
+    line-height: 24px;
+    position: absolute;
+    bottom: 0px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+#ro-1 .vc_col-sm-3:hover h6 img {
+    opacity: 14%;
+}
+
+#ro-1 .vc_col-sm-3:hover h3 {
+    opacity: 100%;
+}
+
+
+/* -----------------------       ----------       ----------       ----------       ----------       ----------        */
+
+#fu-1 .imgg {
+    width: 100%;
+}
+
+#fu-1 {
+    margin-bottom: 60px !important;
+}
+
+#fu-2 .tx1 {
+    margin-top: 10px;
+}
+
+#fu-2 .tx1 h3 {
+    font-family: 'av';
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 25px;
+    color: #231f20b0;
+}
+
+#fu-2 .owl-stage {
+    padding: 0px;
+}
+
+#fu-2 .owl-dots {
+    display: none;
+}
+
+
+/*  */
+
+#fu-2 .owl-nav {
+    display: flex;
+    position: absolute;
+    right: 0px;
+    top: -80px;
+    z-index: 9999;
+}
+
+#fu-2 .owl-nav button span {
+    display: none;
+}
+
+#fu-2 .owl-nav button {
+    border: none;
+    background-color: transparent;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #a6a8ab;
+    margin: 0px;
+}
+
+#fu-2 .owl-nav b.vc_col-sm-3:hover {
+    color: #000;
+}
+
+#fu-2 .owl-nav button:before {
+    content: "Prev";
+    font-family: 'av';
+    font-weight: 500;
+    font-size: 15px;
+    text-transform: lowercase;
+    letter-spacing: 3px;
+}
+
+#fu-2 .owl-nav button.owl-next:before {
+    content: "Next";
+}
+
+#fu-2 button.owl-prev:after {
+    content: "/";
+    font-weight: 900;
+    font-family: 'av';
+    margin-left: 5px;
+    margin-right: 20px;
+}
+
+
+/*  */
+
+#fu-2 .txt1 {
+    position: relative;
+}
+
+#fu-2 .txt1 h6 {
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+#fu-2 .txt1 h6 img {
+    opacity: 100%;
+    transition: 0.5s;
+    margin: 0px;
+    padding: 0px;
+}
+
+#fu-2 .txt1 h3 {
+    font-family: 'av';
+    font-weight: 500;
+    color: #000;
+    font-size: 15px;
+    line-height: 24px;
+    position: absolute;
+    bottom: 0px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+#fu-2 .vc_col-sm-3:hover h6 img,
+#fu-2 #inn1  .vc_col-sm-12:hover h6 img {
+    opacity: 14%;
+}
+
+#fu-2 .vc_col-sm-3:hover h3,
+#fu-2 #inn1 .vc_col-sm-12:hover h3 {
+    opacity: 100%;
+}
+
+
+/* -----------------------       ----------       ----------       ----------       ----------       ----------        */
+
+#copyright {
+    padding-top: 50px !important;
+}
+
+#copyright p {
+    font-family: 'av';
+    font-weight: 500;
+    font-size: 14px;
+    color: #231f20 !important;
+    text-align: left;
+}
+
+#copyright .col.span_5 {
+    max-width: 100% !important;
+}
+
+#footer-outer #footer-widgets {
+    display: none;
+}
+
+#copyright .container {
+    display: flex;
+    align-items: end;
+}
+
+ul.social {
+    text-align: end;
+}
+
+
+/* -----------------------       ----------       ----------       ----------       ----------       ----------        */
+
+
+/*---------------------------------------------------------------------------*/
+
+@media (max-width: 1600px) {}
+
+
+/*---------------------------------------------------------------------------*/
+
+@media (max-width: 1440px) {}
+
+
+/*---------------------------------------------------------------------------*/
+
+@media (max-width: 1366px) {}
+
+
+/*---------------------------------------------------------------------------*/
+
+@media (max-width: 1280px) {}
+
+
+/*---------------------------------------------------------------------------*/
+
+@media (max-width: 1024px) {
+    #ro-1 .txt1 h3 {
+        font-size: 12px;
+        line-height: 19px;
+    }
+    .slide-out-widget-area-toggle {
+        display: flex !important;
+        align-items: flex-start !important;
+        padding-top: 28px;
+    }
+}
+
+
+/*---------------------------------------------------------------------------*/
+
+@media (max-width: 900px) {
+    #ro-upp {
+        margin-top: 00px;
+    }
+    #ro-upp .txt0 h4 {
+        font-size: 19px;
+        line-height: 21px;
+    }
+}
+
+
+/*---------------------------------------------------------------------------*/
+
+@media (max-width: 768px) {}
+
+
+/*---------------------------------------------------------------------------*/
+
+@media (max-width: 480px) {
+    #ro-upp .txt0 h4 {
+        font-size: 13px;
+        line-height: 21px;
+        text-align: center;
+    }
+    #ro-1 .txt1 h3 {
+        font-size: 14px;
+        line-height: 21px;
+        padding: 0px 10px;
+    }
+    #ro-1 .txt1 h3 br {
+        display: none;
+    }
+    #ro-1 .txt1 h6 img {
+        width: 90%;
+        margin: auto;
+    }
+}
+
+
+/*---------------------------------------------------------------------------*/
+
+@media (max-width: 414px) {}
+
+
+/*---------------------------------------------------------------------------*/
+
+@media (max-width: 360px) {}
+
+
+div#copyright {
+    padding-bottom: 15px !important;
+    padding-top: 70px !important;
+}
