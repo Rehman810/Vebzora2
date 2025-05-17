@@ -1,0 +1,13 @@
+#logo img {
+  width: 220px !important;
+  height: auto !important;
+  transition: all 0.3s ease !important;
+}
+
+/* Small screens: increase logo size */
+@media (max-width: 768px) {
+  #logo img {
+    width: 100px !important;
+    height: 200px !important; /* Adjust height as needed */
+  }
+}
