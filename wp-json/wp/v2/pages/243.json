@@ -10,7 +10,7 @@
   "slug": "the-violin-factory-logo",
   "status": "publish",
   "type": "page",
-  "link": "https://designlogiks.com/the-violin-factory-logo/",
+  "link": "/the-violin-factory-logo/",
   "title": {
     "rendered": "THE VIOLIN FACTORY LOGO"
   },
@@ -39,47 +39,47 @@
   "_links": {
     "self": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/243",
+        "href": "/wp-json/wp/v2/pages/243",
         "targetHints": { "allow": ["GET"] }
       }
     ],
     "collection": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages"
+        "href": "/wp-json/wp/v2/pages"
       }
     ],
     "about": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/types/page"
+        "href": "/wp-json/wp/v2/types/page"
       }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/users/1"
+        "href": "/wp-json/wp/v2/users/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/comments?post=243"
+        "href": "/wp-json/wp/v2/comments?post=243"
       }
     ],
     "version-history": [
       {
         "count": 13,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/243/revisions"
+        "href": "/wp-json/wp/v2/pages/243/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 566,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/243/revisions/566"
+        "href": "/wp-json/wp/v2/pages/243/revisions/566"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/media?parent=243"
+        "href": "/wp-json/wp/v2/media?parent=243"
       }
     ],
     "curies": [

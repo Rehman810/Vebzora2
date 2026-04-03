@@ -10,7 +10,7 @@
   "slug": "mod-uae-brochure",
   "status": "publish",
   "type": "page",
-  "link": "https://designlogiks.com/mod-uae-brochure/",
+  "link": "/mod-uae-brochure/",
   "title": {
     "rendered": "MOD \u2013 UAE BROCHURE"
   },
@@ -39,47 +39,47 @@
   "_links": {
     "self": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/309",
+        "href": "/wp-json/wp/v2/pages/309",
         "targetHints": { "allow": ["GET"] }
       }
     ],
     "collection": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages"
+        "href": "/wp-json/wp/v2/pages"
       }
     ],
     "about": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/types/page"
+        "href": "/wp-json/wp/v2/types/page"
       }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/users/1"
+        "href": "/wp-json/wp/v2/users/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/comments?post=309"
+        "href": "/wp-json/wp/v2/comments?post=309"
       }
     ],
     "version-history": [
       {
         "count": 3,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/309/revisions"
+        "href": "/wp-json/wp/v2/pages/309/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 490,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/309/revisions/490"
+        "href": "/wp-json/wp/v2/pages/309/revisions/490"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/media?parent=309"
+        "href": "/wp-json/wp/v2/media?parent=309"
       }
     ],
     "curies": [

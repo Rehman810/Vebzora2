@@ -10,7 +10,7 @@
   "slug": "ballistic-concrete-coatings-brochure",
   "status": "publish",
   "type": "page",
-  "link": "https://designlogiks.com/ballistic-concrete-coatings-brochure/",
+  "link": "/ballistic-concrete-coatings-brochure/",
   "title": {
     "rendered": "BALLISTIC CONCRETE COATINGS BROCHURE"
   },
@@ -39,47 +39,47 @@
   "_links": {
     "self": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/257",
+        "href": "/wp-json/wp/v2/pages/257",
         "targetHints": { "allow": ["GET"] }
       }
     ],
     "collection": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages"
+        "href": "/wp-json/wp/v2/pages"
       }
     ],
     "about": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/types/page"
+        "href": "/wp-json/wp/v2/types/page"
       }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/users/1"
+        "href": "/wp-json/wp/v2/users/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/comments?post=257"
+        "href": "/wp-json/wp/v2/comments?post=257"
       }
     ],
     "version-history": [
       {
         "count": 6,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/257/revisions"
+        "href": "/wp-json/wp/v2/pages/257/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 463,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/257/revisions/463"
+        "href": "/wp-json/wp/v2/pages/257/revisions/463"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/media?parent=257"
+        "href": "/wp-json/wp/v2/media?parent=257"
       }
     ],
     "curies": [

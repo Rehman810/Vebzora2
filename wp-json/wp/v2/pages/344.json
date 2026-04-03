@@ -10,7 +10,7 @@
   "slug": "50yrs-adamjee-campaign",
   "status": "publish",
   "type": "page",
-  "link": "https://designlogiks.com/50yrs-adamjee-campaign/",
+  "link": "/50yrs-adamjee-campaign/",
   "title": {
     "rendered": "50YRS ADAMJEE CAMPAIGN"
   },
@@ -39,47 +39,47 @@
   "_links": {
     "self": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/344",
+        "href": "/wp-json/wp/v2/pages/344",
         "targetHints": { "allow": ["GET"] }
       }
     ],
     "collection": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages"
+        "href": "/wp-json/wp/v2/pages"
       }
     ],
     "about": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/types/page"
+        "href": "/wp-json/wp/v2/types/page"
       }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/users/1"
+        "href": "/wp-json/wp/v2/users/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/comments?post=344"
+        "href": "/wp-json/wp/v2/comments?post=344"
       }
     ],
     "version-history": [
       {
         "count": 4,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/344/revisions"
+        "href": "/wp-json/wp/v2/pages/344/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 570,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/344/revisions/570"
+        "href": "/wp-json/wp/v2/pages/344/revisions/570"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/media?parent=344"
+        "href": "/wp-json/wp/v2/media?parent=344"
       }
     ],
     "curies": [

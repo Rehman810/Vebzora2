@@ -10,7 +10,7 @@
   "slug": "tawazun-souvenir-packaging",
   "status": "publish",
   "type": "page",
-  "link": "https://designlogiks.com/tawazun-souvenir-packaging/",
+  "link": "/tawazun-souvenir-packaging/",
   "title": {
     "rendered": "TAWAZUN SOUVENIR PACKAGING"
   },
@@ -39,47 +39,47 @@
   "_links": {
     "self": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/250",
+        "href": "/wp-json/wp/v2/pages/250",
         "targetHints": { "allow": ["GET"] }
       }
     ],
     "collection": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages"
+        "href": "/wp-json/wp/v2/pages"
       }
     ],
     "about": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/types/page"
+        "href": "/wp-json/wp/v2/types/page"
       }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/users/1"
+        "href": "/wp-json/wp/v2/users/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/comments?post=250"
+        "href": "/wp-json/wp/v2/comments?post=250"
       }
     ],
     "version-history": [
       {
         "count": 6,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/250/revisions"
+        "href": "/wp-json/wp/v2/pages/250/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 433,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/250/revisions/433"
+        "href": "/wp-json/wp/v2/pages/250/revisions/433"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/media?parent=250"
+        "href": "/wp-json/wp/v2/media?parent=250"
       }
     ],
     "curies": [

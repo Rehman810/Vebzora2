@@ -10,7 +10,7 @@
   "slug": "swiss-vitality-skin-care-packaging",
   "status": "publish",
   "type": "page",
-  "link": "https://designlogiks.com/swiss-vitality-skin-care-packaging/",
+  "link": "/swiss-vitality-skin-care-packaging/",
   "title": {
     "rendered": "SWISS VITALITY SKIN CARE PACKAGING"
   },
@@ -39,47 +39,47 @@
   "_links": {
     "self": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/302",
+        "href": "/wp-json/wp/v2/pages/302",
         "targetHints": { "allow": ["GET"] }
       }
     ],
     "collection": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages"
+        "href": "/wp-json/wp/v2/pages"
       }
     ],
     "about": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/types/page"
+        "href": "/wp-json/wp/v2/types/page"
       }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/users/1"
+        "href": "/wp-json/wp/v2/users/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/comments?post=302"
+        "href": "/wp-json/wp/v2/comments?post=302"
       }
     ],
     "version-history": [
       {
         "count": 4,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/302/revisions"
+        "href": "/wp-json/wp/v2/pages/302/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 505,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/302/revisions/505"
+        "href": "/wp-json/wp/v2/pages/302/revisions/505"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/media?parent=302"
+        "href": "/wp-json/wp/v2/media?parent=302"
       }
     ],
     "curies": [

@@ -10,7 +10,7 @@
   "slug": "scissors-experts-website",
   "status": "publish",
   "type": "page",
-  "link": "https://designlogiks.com/scissors-experts-website/",
+  "link": "/scissors-experts-website/",
   "title": {
     "rendered": "SCISSORS EXPERTS WEBSITE"
   },
@@ -39,47 +39,47 @@
   "_links": {
     "self": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/326",
+        "href": "/wp-json/wp/v2/pages/326",
         "targetHints": { "allow": ["GET"] }
       }
     ],
     "collection": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages"
+        "href": "/wp-json/wp/v2/pages"
       }
     ],
     "about": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/types/page"
+        "href": "/wp-json/wp/v2/types/page"
       }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/users/1"
+        "href": "/wp-json/wp/v2/users/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https://designlogiks.com/wp-json/wp/v2/comments?post=326"
+        "href": "/wp-json/wp/v2/comments?post=326"
       }
     ],
     "version-history": [
       {
         "count": 3,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/326/revisions"
+        "href": "/wp-json/wp/v2/pages/326/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 442,
-        "href": "https://designlogiks.com/wp-json/wp/v2/pages/326/revisions/442"
+        "href": "/wp-json/wp/v2/pages/326/revisions/442"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https://designlogiks.com/wp-json/wp/v2/media?parent=326"
+        "href": "/wp-json/wp/v2/media?parent=326"
       }
     ],
     "curies": [
